@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    text-align: center;
+    margin-right: 250px;
+    margin-left: 250px;
+}
+
+h1{
+    color: #ffffff;
+}
+
+p{
+    color: #1c03ff;
+}
+
+.img-vsf1{
+    float: left; /* A imagem ficará à esquerda do texto */ 
+        width: 150px; /* Largura da imagem */
+        height: auto; /* Altura ajustada automaticamente */
+}
+
+.img-vsf2{
+    float: right; /* A imagem ficará à esquerda do texto */ 
+        width: 150px; /* Largura da imagem */
+        height: auto; /* Altura ajustada automaticamente */
+}
+
+.img-trixie{
+    width: 400px;
+    height: 500px;
+}
